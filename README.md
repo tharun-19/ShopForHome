@@ -32,9 +32,7 @@ The frontend client makes API calls to the backend server when it is running.
 
 ## Database Schema
 
-Install Mysql -> after installation -> search mysql workbench
-Open Admin -> give password which you provide at the time of installation.
-Create Database with name "ecommerce". Then run queries provided in mysql.sql script one by one.
+Database with name "ecommerce".
 
 
 
