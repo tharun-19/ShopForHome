@@ -32,7 +32,7 @@ The frontend client makes API calls to the backend server when it is running.
 
 ## Database Schema
 
-Database with name "ecommerce".
+MySQL 8.0 database with name "ecommerce".
 
 
 
